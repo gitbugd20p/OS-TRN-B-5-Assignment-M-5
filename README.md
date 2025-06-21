@@ -6,7 +6,7 @@ A clean and responsive React dashboard to track expenses and spending categories
 
 ## Live Demo
 
-Check out the live demo here: [Live Demo URL](https://your-live-demo-url.com)
+Check out the live demo here: [Live Demo URL](https://simple-dashboard-trn-m-5.netlify.app/expenses)
 
 ---
 
